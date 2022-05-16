@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/triphub-2.1/main/2.1",true))()
